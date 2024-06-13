@@ -74,13 +74,8 @@ Versatile and innovative Software Engineer with robust problem-solving skills an
 - Software Engineer | Full Stack Developer | Machine Learning Engineer | Mobile App Developer
 
 ## 📫 Contact Me:
-📧 **Email**: [chejui.nien@gmail.com](mailto:chejui.nien@gmail.com)
-  ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+📧 **Email**: [chejui.nien@gmail.com](mailto:chejui.nien@gmail.com)<br>
 🌐 **LinkedIn**: [linkedin.com/in/jerrynien](https://www.linkedin.com/in/jerrynien)
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white): [chejui.nien@gmail.com](mailto:chejui.nien@gmail.com)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): [linkedin.com/in/jerrynien](https://www.linkedin.com/in/jerrynien)
                
 
 <!--
