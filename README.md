@@ -1,4 +1,4 @@
-### Hi there 👋 I am Jerry
+## Hi there 👋 I am Jerry
 ## 😄 About Me
 🌟 **Professional Summary**:<br>
 Versatile and innovative Software Engineer with robust problem-solving skills and a keen aptitude for learning new technologies. Demonstrated expertise in developing scalable applications and leading projects to enhance operational efficiencies and user experiences. Proficient in a broad range of programming languages, including Java, Python, React, and Django.
@@ -70,8 +70,8 @@ Versatile and innovative Software Engineer with robust problem-solving skills an
 </p>
 
 
-## 🔍 Roles:
-- Software Engineer | Full Stack Developer | Machine Learning Engineer | Mobile App Developer
+## 🔍 Roles:<br>
+👯 Software Engineer | Full Stack Developer | Machine Learning Engineer | Mobile App Developer
 
 ## 📫 Contact Me:
 📧 **Email**: [chejui.nien@gmail.com](mailto:chejui.nien@gmail.com) 
