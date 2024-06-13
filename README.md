@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Jerry
 
 ## About Me
-🎓 **ECE** @ [Duke University](https://www.duke.edu/) (Class of 2024)
-😎 **Software Engineer Intern** @ [Corning Incorporated](https://www.corning.com/worldwide/en.html) (Digital transformation team)
-😎 **Computer Aided Engineer Intern** @ [Moldex3D](https://www.moldex3d.com/)
+🎓 **ECE** @ [Duke University](https://www.duke.edu/) (Class of 2024)<br>
+😎 **Software Engineer Intern** @ [Corning Incorporated](https://www.corning.com/worldwide/en.html) (Digital transformation team)<br>
+😎 **Computer Aided Engineer Intern** @ [Moldex3D](https://www.moldex3d.com/)<br>
 ⚡ Specialize in full-stack software development, machine learning, mobile app development, and data analysis.<br>
 🌱 Software Developer - Duke University<br>
 
