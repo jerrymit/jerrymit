@@ -4,7 +4,7 @@
 Versatile and innovative Software Engineer with robust problem-solving skills and a keen aptitude for learning new technologies. Demonstrated expertise in developing scalable applications and leading projects to enhance operational efficiencies and user experiences. Proficient in a broad range of programming languages, including Java, Python, React, and Django.
 
 ## 🎓 Educational Background:<br>
-**Master’s Degree in Electrical & Computer Engineering** from [Duke University](https://www.duke.edu/) (Class of 2024). Specialized in software development, machine learning, and data analysis.
+**Master’s Degree in Electrical & Computer Engineering** from [Duke University](https://www.duke.edu/) (Class of 2024). Specialized in software development, mobile app development, machine learning, and data analysis.
 
 ## 🚀 **Professional Experience**:<br>
 😎 **Software Engineer Intern**, Digital Transformation Team @ [Corning Incorporated](https://www.corning.com/worldwide/en.html)<br>
