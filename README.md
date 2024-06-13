@@ -43,8 +43,18 @@ Versatile and innovative Software Engineer with a Master’s degree in Electrica
   <img src="https://img.shields.io/badge/Valgrind-red?style=flat" alt="Valgrind" />
   <img src="https://img.shields.io/badge/Emacs-purple?style=flat&logo=gnuemacs" alt="Emacs" />
 </p>
+<p>
+  <b>Databases:</b><br>
+  <img src="https://img.shields.io/badge/MS_SQL-blue?style=flat&logo=microsoftsqlserver" alt="MS SQL" />
+  <img src="https://img.shields.io/badge/Oracle-red?style=flat&logo=oracle" alt="Oracle" />
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-blue?style=flat&logo=sqlite" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-yellow?style=flat&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/OSIsoft_PI-darkblue?style=flat" alt="OSIsoft PI" />
+</p>
 
-- **Databases:** MS SQL, Oracle, PostgreSQL, MongoDB, MySQL, SQLAlchemy, Oracle Database, Firebase, NoSQL, SQLite, OSIsoft PI Database
 - **DevOps:** CI/CD pipelines, Microservices Architecture
 - **Machine Learning:** TensorFlow, Keras, Pandas, Scikit-learn, faster-RCNN, XGBOOST, Cycle GAN
 
