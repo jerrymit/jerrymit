@@ -1,11 +1,10 @@
 ## Hi there 👋 I am Jerry
 
 ## About Me
-🎓 ECE @ Duke University (Class of 2024)
-
-😎 Software Engineer Intern @ Corning Incorporated (Digital transformation team)
-⚡ Specialize in full-stack software development, machine learning, mobile app development, and data analysis.
-🌱 Software Developer - Duke University
+🎓 ECE @ Duke University (Class of 2024)<br>
+😎 Software Engineer Intern @ Corning Incorporated (Digital transformation team)<br>
+⚡ Specialize in full-stack software development, machine learning, mobile app development, and data analysis.<br>
+🌱 Software Developer - Duke University<br>
 
 ### 😎 Software Engineer | Full Stack Developer | Machine Learning Engineer | Mobile App Developer
 Versatile and innovative Software Engineer with a Master’s degree in Electrical & Computer Engineering from Duke University. Proficient in a broad range of programming languages and technologies, including Java, Python, React, and Django, with advanced skills in AWS and cloud technologies. Demonstrated expertise in developing scalable applications and leading projects that enhance operational efficiencies and improve user experiences.
