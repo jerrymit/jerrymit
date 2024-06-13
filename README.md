@@ -29,8 +29,21 @@ Versatile and innovative Software Engineer with a Master’s degree in Electrica
   <img src="https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery" alt="jQuery" />
   <img src="https://img.shields.io/badge/Figma-red?style=flat&logo=figma" alt="Figma" />
 </p>
+<p>
+  <b>Tools & Platforms:</b><br>
+  <img src="https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-orange?style=flat&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/PyCharm-green?style=flat&logo=pycharm" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Linux-fcc624?style=flat&logo=linux" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ-black?style=flat&logo=intellijidea" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/Junit-lightgrey?style=flat&logo=junit5" alt="Junit" />
+  <img src="https://img.shields.io/badge/GDB-grey?style=flat" alt="GDB" />
+  <img src="https://img.shields.io/badge/Valgrind-red?style=flat" alt="Valgrind" />
+  <img src="https://img.shields.io/badge/Emacs-purple?style=flat&logo=gnuemacs" alt="Emacs" />
+</p>
 
-- **Tools & Platforms:** AWS, Docker, Git, PyCharm, Linux, VS Code, IntelliJ, PyCharm, Junit, GDB, Valgrind, Emacs
 - **Databases:** MS SQL, Oracle, PostgreSQL, MongoDB, MySQL, SQLAlchemy, Oracle Database, Firebase, NoSQL, SQLite, OSIsoft PI Database
 - **DevOps:** CI/CD pipelines, Microservices Architecture
 - **Machine Learning:** TensorFlow, Keras, Pandas, Scikit-learn, faster-RCNN, XGBOOST, Cycle GAN
