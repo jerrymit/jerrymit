@@ -10,8 +10,7 @@
 Versatile and innovative Software Engineer with a Master’s degree in Electrical & Computer Engineering from Duke University. Proficient in a broad range of programming languages and technologies, including Java, Python, React, and Django, with advanced skills in AWS and cloud technologies. Demonstrated expertise in developing scalable applications and leading projects that enhance operational efficiencies and improve user experiences.
 
 ## Technical Skills
-- **Languages:**
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+- **Languages:** ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/C++-blueviolet?style=flat&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-green?style=flat&logo=csharp)
