@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Jerry
 ## About Me
 🌟 **Professional Summary**:
-Versatile and innovative Software Engineer with robust problem-solving skills and a keen aptitude for learning new technologies. Demonstrated expertise in developing scalable applications and leading projects to enhance operational efficiencies and user experiences. Proficient in a broad range of programming languages, including Java, Python, React, and Django.
+- Versatile and innovative Software Engineer with robust problem-solving skills and a keen aptitude for learning new technologies. Demonstrated expertise in developing scalable applications and leading projects to enhance operational efficiencies and user experiences. Proficient in a broad range of programming languages, including Java, Python, React, and Django.
 
 🎓 **Educational Background**:
 - **Master’s Degree in Electrical & Computer Engineering** from [Duke University](https://www.duke.edu/) (Class of 2024). Specialized in software development, machine learning, and data analysis.
