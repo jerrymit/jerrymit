@@ -1,4 +1,7 @@
 ## Hi there 👋 I am Jerry
+<p align="center">
+  <img src="https://github.com/jerrymit/jerrymit/blob/master/S__47734790.jpg">
+</p>
 ## 😄 About Me
 🌟 **Professional Summary**:<br>
 Versatile and innovative Software Engineer with robust problem-solving skills and a keen aptitude for learning new technologies. Demonstrated expertise in developing scalable applications and leading projects to enhance operational efficiencies and user experiences. Proficient in a broad range of programming languages, including Java, Python, React, and Django.
