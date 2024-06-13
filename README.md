@@ -1,38 +1,17 @@
 ### Hi there 👋 I am Jerry
 ## About Me
+🌟 **Professional Summary**:
+Versatile and innovative Software Engineer with robust problem-solving skills and a keen aptitude for learning new technologies. Demonstrated expertise in developing scalable applications and leading projects to enhance operational efficiencies and user experiences. Proficient in a broad range of programming languages, including Java, Python, React, and Django.
+
 🎓 **Educational Background**:
 - **Master’s Degree in Electrical & Computer Engineering** from [Duke University](https://www.duke.edu/) (Class of 2024). Specialized in software development, machine learning, and data analysis.
 
 🚀 **Professional Experience**:
 - 😎 **Software Engineer Intern**, Digital Transformation Team @ [Corning Incorporated](https://www.corning.com/worldwide/en.html)
 - 😎 **Computer Aided Engineer Intern** @ [Moldex3D](https://www.moldex3d.com/)
-- 🌱 **Software Developer** @ Duke University
+- 🌱 **Software Developer** @ [Duke University](https://www.duke.edu/)
 
 💡 **Technical Expertise**:
-- **Full-Stack Software Development**: Proficient in React and Django.
-- **Machine Learning**: Advanced skills in building and deploying models using Python.
-- **Mobile App Development**: Experience in developing and optimizing mobile applications.
-- **Cloud Technologies**: Skilled in AWS solutions, enhancing operational efficiencies and cloud architecture.
-
-🌟 **Professional Summary**:
-Versatile and innovative Software Engineer with robust problem-solving skills and a keen aptitude for learning new technologies. Demonstrated expertise in developing scalable applications and leading projects to enhance operational efficiencies and user experiences. Proficient in a broad range of programming languages, including Java, Python, React, and Django.
-
-🔍 **Roles**:
-- Software Engineer | Full Stack Developer | Machine Learning Engineer | Mobile App Developer
-
-
-
-## About Me
-🎓 **ECE** @ [Duke University](https://www.duke.edu/) (Class of 2024)<br>
-😎 **Software Engineer Intern** @ [Corning Incorporated](https://www.corning.com/worldwide/en.html) (Digital transformation team)<br>
-😎 **Computer Aided Engineer Intern** @ [Moldex3D](https://www.moldex3d.com/)<br>
-⚡ Specialize in full-stack software development, machine learning, mobile app development, and data analysis.<br>
-🌱 Software Developer - Duke University<br>
-
-### 😎 Software Engineer | Full Stack Developer | Machine Learning Engineer | Mobile App Developer
-Versatile and innovative Software Engineer with a Master’s degree in Electrical & Computer Engineering from Duke University. Proficient in a broad range of programming languages and technologies, including Java, Python, React, and Django, with advanced skills in AWS and cloud technologies. Demonstrated expertise in developing scalable applications and leading projects that enhance operational efficiencies and improve user experiences.
-
-## Technical Skills
 <p>
   <b>Programming Languages:</b><br>
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python" alt="Python" />
@@ -91,9 +70,14 @@ Versatile and innovative Software Engineer with a Master’s degree in Electrica
 </p>
 
 
-- Email: [chejui.nien@gmail.com](mailto:chejui.nien@gmail.com)
-- LinkedIn: [linkedin.com/in/jerrynien](https://www.linkedin.com/in/jerrynien)
-Languages & Tools
+🔍 **Roles**:
+- Software Engineer | Full Stack Developer | Machine Learning Engineer | Mobile App Developer
+
+📫 **Contact Me**:
+📧 **Email**: [chejui.nien@gmail.com](mailto:chejui.nien@gmail.com)
+  ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+🌐 **LinkedIn**: [linkedin.com/in/jerrynien](https://www.linkedin.com/in/jerrynien)
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
                
 
 <!--
