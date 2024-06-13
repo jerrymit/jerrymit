@@ -1,4 +1,26 @@
 ### Hi there 👋 I am Jerry
+## About Me
+🎓 **Educational Background**:
+- **Master’s Degree in Electrical & Computer Engineering** from [Duke University](https://www.duke.edu/) (Class of 2024). Specialized in software development, machine learning, and data analysis.
+
+🚀 **Professional Experience**:
+- 😎 **Software Engineer Intern**, Digital Transformation Team @ [Corning Incorporated](https://www.corning.com/worldwide/en.html)
+- 😎 **Computer Aided Engineer Intern** @ [Moldex3D](https://www.moldex3d.com/)
+- 🌱 **Software Developer** @ Duke University
+
+💡 **Technical Expertise**:
+- **Full-Stack Software Development**: Proficient in React and Django.
+- **Machine Learning**: Advanced skills in building and deploying models using Python.
+- **Mobile App Development**: Experience in developing and optimizing mobile applications.
+- **Cloud Technologies**: Skilled in AWS solutions, enhancing operational efficiencies and cloud architecture.
+
+🌟 **Professional Summary**:
+Versatile and innovative Software Engineer with robust problem-solving skills and a keen aptitude for learning new technologies. Demonstrated expertise in developing scalable applications and leading projects to enhance operational efficiencies and user experiences. Proficient in a broad range of programming languages, including Java, Python, React, and Django.
+
+🔍 **Roles**:
+- Software Engineer | Full Stack Developer | Machine Learning Engineer | Mobile App Developer
+
+
 
 ## About Me
 🎓 **ECE** @ [Duke University](https://www.duke.edu/) (Class of 2024)<br>
