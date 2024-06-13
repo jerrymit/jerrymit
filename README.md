@@ -10,14 +10,8 @@
 Versatile and innovative Software Engineer with a Master’s degree in Electrical & Computer Engineering from Duke University. Proficient in a broad range of programming languages and technologies, including Java, Python, React, and Django, with advanced skills in AWS and cloud technologies. Demonstrated expertise in developing scalable applications and leading projects that enhance operational efficiencies and improve user experiences.
 
 ## Technical Skills
-- **Languages:** ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
-![C++](https://img.shields.io/badge/C++-blueviolet?style=flat&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-green?style=flat&logo=csharp)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin)
-
 <p>
-  <b>Languages:</b><br>
+  <b>Languages</b><br>
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java" alt="Java" />
   <img src="https://img.shields.io/badge/C++-blueviolet?style=flat&logo=cplusplus" alt="C++" />
@@ -25,7 +19,7 @@ Versatile and innovative Software Engineer with a Master’s degree in Electrica
   <img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin" alt="Kotlin" />
 </p>
 <p>
-  <b>Web Technologies:</b><br>
+  <b>Web Technologies</b><br>
   <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/Django-green?style=flat&logo=django" alt="Django" />
   <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5" alt="HTML5" />
@@ -36,7 +30,6 @@ Versatile and innovative Software Engineer with a Master’s degree in Electrica
   <img src="https://img.shields.io/badge/Figma-red?style=flat&logo=figma" alt="Figma" />
 </p>
 
-- **Web Technologies:** React, Django, HTML, CSS, JavaScript, Dash, JQuery, Figma
 - **Tools & Platforms:** AWS, Docker, Git, PyCharm, Linux, VS Code, IntelliJ, PyCharm, Junit, GDB, Valgrind, Emacs
 - **Databases:** MS SQL, Oracle, PostgreSQL, MongoDB, MySQL, SQLAlchemy, Oracle Database, Firebase, NoSQL, SQLite, OSIsoft PI Database
 - **DevOps:** CI/CD pipelines, Microservices Architecture
