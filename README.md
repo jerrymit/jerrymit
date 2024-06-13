@@ -24,6 +24,17 @@ Versatile and innovative Software Engineer with a Master’s degree in Electrica
   <img src="https://img.shields.io/badge/C%23-green?style=flat&logo=csharp" alt="C#" />
   <img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin" alt="Kotlin" />
 </p>
+<p>
+  <b>Web Technologies:</b><br>
+  <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Django-green?style=flat&logo=django" alt="Django" />
+  <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dash-lightgrey?style=flat&logo=plotly" alt="Dash" />
+  <img src="https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Figma-red?style=flat&logo=figma" alt="Figma" />
+</p>
 
 - **Web Technologies:** React, Django, HTML, CSS, JavaScript, Dash, JQuery, Figma
 - **Tools & Platforms:** AWS, Docker, Git, PyCharm, Linux, VS Code, IntelliJ, PyCharm, Junit, GDB, Valgrind, Emacs
