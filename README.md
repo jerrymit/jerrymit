@@ -16,6 +16,15 @@ Versatile and innovative Software Engineer with a Master’s degree in Electrica
 ![C#](https://img.shields.io/badge/C%23-green?style=flat&logo=csharp)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin)
 
+<p>
+  <b>Languages:</b><br>
+  <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-blueviolet?style=flat&logo=cplusplus" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-green?style=flat&logo=csharp" alt="C#" />
+  <img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin" alt="Kotlin" />
+</p>
+
 - **Web Technologies:** React, Django, HTML, CSS, JavaScript, Dash, JQuery, Figma
 - **Tools & Platforms:** AWS, Docker, Git, PyCharm, Linux, VS Code, IntelliJ, PyCharm, Junit, GDB, Valgrind, Emacs
 - **Databases:** MS SQL, Oracle, PostgreSQL, MongoDB, MySQL, SQLAlchemy, Oracle Database, Firebase, NoSQL, SQLite, OSIsoft PI Database
