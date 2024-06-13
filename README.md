@@ -3,15 +3,15 @@
 🌟 **Professional Summary**:<br>
 Versatile and innovative Software Engineer with robust problem-solving skills and a keen aptitude for learning new technologies. Demonstrated expertise in developing scalable applications and leading projects to enhance operational efficiencies and user experiences. Proficient in a broad range of programming languages, including Java, Python, React, and Django.
 
-🎓 **Educational Background**:
-- **Master’s Degree in Electrical & Computer Engineering** from [Duke University](https://www.duke.edu/) (Class of 2024). Specialized in software development, machine learning, and data analysis.
+🎓 **Educational Background**:<br>
+**Master’s Degree in Electrical & Computer Engineering** from [Duke University](https://www.duke.edu/) (Class of 2024). Specialized in software development, machine learning, and data analysis.
 
-🚀 **Professional Experience**:
-- 😎 **Software Engineer Intern**, Digital Transformation Team @ [Corning Incorporated](https://www.corning.com/worldwide/en.html)
-- 😎 **Computer Aided Engineer Intern** @ [Moldex3D](https://www.moldex3d.com/)
-- 🌱 **Software Developer** @ [Duke University](https://www.duke.edu/)
+🚀 **Professional Experience**:<br>
+😎 **Software Engineer Intern**, Digital Transformation Team @ [Corning Incorporated](https://www.corning.com/worldwide/en.html)<br>
+😎 **Computer Aided Engineer Intern** @ [Moldex3D](https://www.moldex3d.com/)<br>
+🌱 **Software Developer** @ [Duke University](https://www.duke.edu/)
 
-💡 **Technical Expertise**:
+## 💡 Technical Expertise:
 <p>
   <b>Programming Languages:</b><br>
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python" alt="Python" />
