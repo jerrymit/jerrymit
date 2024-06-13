@@ -17,7 +17,11 @@ Versatile and innovative Software Engineer with a Master’s degree in Electrica
 - **DevOps:** CI/CD pipelines, Microservices Architecture
 - **Machine Learning:** TensorFlow, Keras, Pandas, Scikit-learn, faster-RCNN, XGBOOST, Cycle GAN
 
-
+<p align="center">
+  <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/>
+</p>
 
 - Email: [chejui.nien@gmail.com](mailto:chejui.nien@gmail.com)
 - LinkedIn: [linkedin.com/in/jerrynien](https://www.linkedin.com/in/jerrynien)
