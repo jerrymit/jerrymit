@@ -1,12 +1,12 @@
 ### Hi there 👋 I am Jerry
-## About Me
+## 😄 About Me
 🌟 **Professional Summary**:<br>
 Versatile and innovative Software Engineer with robust problem-solving skills and a keen aptitude for learning new technologies. Demonstrated expertise in developing scalable applications and leading projects to enhance operational efficiencies and user experiences. Proficient in a broad range of programming languages, including Java, Python, React, and Django.
 
-🎓 **Educational Background**:<br>
+## 🎓 Educational Background:<br>
 **Master’s Degree in Electrical & Computer Engineering** from [Duke University](https://www.duke.edu/) (Class of 2024). Specialized in software development, machine learning, and data analysis.
 
-🚀 **Professional Experience**:<br>
+## 🚀 **Professional Experience**:<br>
 😎 **Software Engineer Intern**, Digital Transformation Team @ [Corning Incorporated](https://www.corning.com/worldwide/en.html)<br>
 😎 **Computer Aided Engineer Intern** @ [Moldex3D](https://www.moldex3d.com/)<br>
 🌱 **Software Developer** @ [Duke University](https://www.duke.edu/)
@@ -70,10 +70,10 @@ Versatile and innovative Software Engineer with robust problem-solving skills an
 </p>
 
 
-🔍 **Roles**:
+## 🔍 Roles:
 - Software Engineer | Full Stack Developer | Machine Learning Engineer | Mobile App Developer
 
-📫 **Contact Me**:
+## 📫 Contact Me:
 📧 **Email**: [chejui.nien@gmail.com](mailto:chejui.nien@gmail.com)
   ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 🌐 **LinkedIn**: [linkedin.com/in/jerrynien](https://www.linkedin.com/in/jerrynien)
