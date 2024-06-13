@@ -16,7 +16,7 @@ Versatile and innovative Software Engineer with a Master’s degree in Electrica
 - **Databases:** MS SQL, Oracle, PostgreSQL, MongoDB, MySQL, SQLAlchemy, Oracle Database, Firebase, NoSQL, SQLite, OSIsoft PI Database
 - **DevOps:** CI/CD pipelines, Microservices Architecture
 - **Machine Learning:** TensorFlow, Keras, Pandas, Scikit-learn, faster-RCNN, XGBOOST, Cycle GAN
-
+![Python](https://img.shields.io/badge/Python-3.8-blue?style=flat&logo=python)
 <p align="center">
   <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="40" height="40"/>
   <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
