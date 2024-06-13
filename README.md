@@ -11,7 +11,7 @@ Versatile and innovative Software Engineer with a Master’s degree in Electrica
 
 ## Technical Skills
 <p>
-  <b>Languages</b><br>
+  <b>Programming Languages:</b><br>
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java" alt="Java" />
   <img src="https://img.shields.io/badge/C++-blueviolet?style=flat&logo=cplusplus" alt="C++" />
@@ -19,7 +19,7 @@ Versatile and innovative Software Engineer with a Master’s degree in Electrica
   <img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin" alt="Kotlin" />
 </p>
 <p>
-  <b>Web Technologies</b><br>
+  <b>Web Development:</b><br>
   <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/Django-green?style=flat&logo=django" alt="Django" />
   <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5" alt="HTML5" />
@@ -54,9 +54,19 @@ Versatile and innovative Software Engineer with a Master’s degree in Electrica
   <img src="https://img.shields.io/badge/Firebase-yellow?style=flat&logo=firebase" alt="Firebase" />
   <img src="https://img.shields.io/badge/OSIsoft_PI-darkblue?style=flat" alt="OSIsoft PI" />
 </p>
+<p>
+  <b>DevOps:</b><br>
+  <img src="https://img.shields.io/badge/CI%2FCD-blue?style=flat" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Microservices-blue?style=flat" alt="Microservices" />
+</p>
+<p>
+  <b>Machine Learning:</b><br>
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-red?style=flat&logo=keras" alt="Keras" />
+  <img src="https://img.shields.io/badge/Pandas-blue?style=flat&logo=pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-blue?style=flat&logo=scikitlearn" alt="Scikit-learn" />
+</p>
 
-- **DevOps:** CI/CD pipelines, Microservices Architecture
-- **Machine Learning:** TensorFlow, Keras, Pandas, Scikit-learn, faster-RCNN, XGBOOST, Cycle GAN
 
 - Email: [chejui.nien@gmail.com](mailto:chejui.nien@gmail.com)
 - LinkedIn: [linkedin.com/in/jerrynien](https://www.linkedin.com/in/jerrynien)
