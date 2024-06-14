@@ -68,6 +68,7 @@ Versatile and innovative Software Engineer with robust problem-solving skills an
   <img src="https://img.shields.io/badge/Pandas-blue?style=flat&logo=pandas" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit--learn-blue?style=flat&logo=scikitlearn" alt="Scikit-learn" />
 </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrymit&layout=compact&theme=vue)
 
 ## 🔍 Roles:<br>
