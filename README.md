@@ -77,6 +77,8 @@ Versatile and innovative Software Engineer with robust problem-solving skills an
 📧 **Email**: [chejui.nien@gmail.com](mailto:chejui.nien@gmail.com) 
 🌐 **LinkedIn**: [linkedin.com/in/jerrynien](https://www.linkedin.com/in/jerrynien)
                
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrymit&layout=compact&theme=vue)
 
 <!--
 **jerrymit/jerrymit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
