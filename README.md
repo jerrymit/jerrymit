@@ -68,7 +68,7 @@ Versatile and innovative Software Engineer with robust problem-solving skills an
   <img src="https://img.shields.io/badge/Pandas-blue?style=flat&logo=pandas" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit--learn-blue?style=flat&logo=scikitlearn" alt="Scikit-learn" />
 </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrymit&layout=compact&theme=vue)
 
 ## 🔍 Roles:<br>
 👯 Software Engineer | Full Stack Developer | Machine Learning Engineer | Mobile App Developer
@@ -77,7 +77,6 @@ Versatile and innovative Software Engineer with robust problem-solving skills an
 📧 **Email**: [chejui.nien@gmail.com](mailto:chejui.nien@gmail.com) 
 🌐 **LinkedIn**: [linkedin.com/in/jerrynien](https://www.linkedin.com/in/jerrynien)
                
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrymit&layout=compact&theme=vue)
 
 <!--
 **jerrymit/jerrymit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
